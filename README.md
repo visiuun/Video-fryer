@@ -1,4 +1,4 @@
-![video](https://files.catbox.moe/yahi5s.mp4)
+![compressed result](https://files.catbox.moe/zx20qb.gif)
 
 # Video and Audio Fryer
 

@@ -1,3 +1,5 @@
+![video](https://files.catbox.moe/yahi5s.mp4)
+
 # Video and Audio Fryer
 
 This Python tool allows you to compress video and audio files by using FFmpeg to apply various levels of compression, reducing their size for faster sharing or uploading. You can control the video compression percentage using an easy-to-use slider, and the tool supports a wide range of video formats including `.mp4`, `.mkv`, `.avi`, and `.mov`.
